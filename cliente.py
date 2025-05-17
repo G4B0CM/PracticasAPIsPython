@@ -1,7 +1,7 @@
 import requests
 
 # URL de la API local
-url = "http://localhost:8000/predecir-ingreso"
+url = "https://practicasapispython.onrender.com/predecir-ingreso"
 
 # Recolectar datos del usuario
 def pedir_datos():
